@@ -1,5 +1,6 @@
 import React from 'react'
 import project from '../Assests/Images/icon-project.png'
+import chevrom from '../Assests/Images/chevron-right.png'
 
 const Projects = () => {
   return (
